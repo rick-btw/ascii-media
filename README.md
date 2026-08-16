@@ -8,7 +8,7 @@ directly in your terminal or exported as a shareable text, Markdown, or HTML ban
 </p>
 
 <p align="center">
-  <sub>Volcanic mountains rendered in true-color ASCII at 120 columns</sub>
+  <sub>Cover artwork from Radiohead's <em>Kid A</em>, rendered in true-color ASCII at 120 columns</sub>
 </p>
 
 <p align="center">
