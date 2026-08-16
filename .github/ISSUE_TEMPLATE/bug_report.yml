@@ -1,0 +1,30 @@
+name: Bug report
+description: Report a reproducible problem with ASCII Media
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve ASCII Media.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the command you ran and any error output.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: "ascii-media 1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: "Python 3.12, macOS 15"
+    validations:
+      required: true
+
