@@ -4,6 +4,14 @@ Turn images, animated GIFs, and short video clips into crisp, high-contrast, tru
 directly in your terminal or exported as a shareable text, Markdown, or HTML banner.
 
 <p align="center">
+  <img src="assets/cloudscape-ascii-preview.png" alt="A cloudscape converted into true-color ASCII art" width="860">
+</p>
+
+<p align="center">
+  <sub>Cloudscape rendered in true-color ASCII at 80 columns</sub>
+</p>
+
+<p align="center">
   <strong>Fast terminal previews · 24-bit color · Animated media · Zero-config image support</strong>
 </p>
 
