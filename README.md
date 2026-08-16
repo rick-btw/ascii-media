@@ -30,7 +30,7 @@ directly in your terminal or exported as a shareable text, Markdown, or HTML ban
 ASCII Media requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/ascii-media.git
+git clone https://github.com/rick-btw/ascii-media.git
 cd ascii-media
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
