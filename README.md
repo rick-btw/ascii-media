@@ -4,11 +4,11 @@ Turn images, animated GIFs, and short video clips into crisp, high-contrast, tru
 directly in your terminal or exported as a shareable text, Markdown, or HTML banner.
 
 <p align="center">
-  <img src="assets/starlight-clouds-ascii-preview.png" alt="Stars and clouds converted into high-contrast ASCII art" width="1050">
+  <img src="assets/volcanic-mountains-ascii-preview.png" alt="A volcanic mountain panorama converted into true-color ASCII art" width="1020">
 </p>
 
 <p align="center">
-  <sub>Starlight and clouds rendered in high-contrast ASCII at 110 columns</sub>
+  <sub>Volcanic mountains rendered in true-color ASCII at 120 columns</sub>
 </p>
 
 <p align="center">
